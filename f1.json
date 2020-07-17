@@ -1,38 +1,33 @@
 {
-    "quiz": {
-        "sport": {
-            "q1": {
-                "question": "Which one is correct team name in NBA?",
-                "options": [
-                    "New York Bulls",
-                    "Los Angeles Kings",
-                    "Golden State Warriros",
-                    "Huston Rocket"
-                ],
-                "answer": "Huston Rocket"
-            }
+    "news": [
+        {
+            "title" : "Rajasthan crisis: Rahul Gandhi steps in to woo Sachin Pilot",
+            "des" : "Congress is making a last-ditch attempt to woo Sachin Pilot back. Rahul Gandhi has stepped in and has conveyed a message to Sachin Pilot that he is a member of the party and doors of the party are always open for him."
+
         },
-        "maths": {
-            "q1": {
-                "question": "5 + 7 = ?",
-                "options": [
-                    "10",
-                    "11",
-                    "12",
-                    "13"
-                ],
-                "answer": "12"
-            },
-            "q2": {
-                "question": "12 - 8 = ?",
-                "options": [
-                    "1",
-                    "2",
-                    "3",
-                    "4"
-                ],
-                "answer": "4"
-            }
+        {
+            "title" : "Rajasthan crisis: Rahul Gandhi steps in to woo Sachin Pilot",
+            "des" : "Congress is making a last-ditch attempt to woo Sachin Pilot back. Rahul Gandhi has stepped in and has conveyed a message to Sachin Pilot that he is a member of the party and doors of the party are always open for him."
+
+        },
+        {
+            "title" : "Rajasthan crisis: Rahul Gandhi steps in to woo Sachin Pilot",
+            "des" : "Congress is making a last-ditch attempt to woo Sachin Pilot back. Rahul Gandhi has stepped in and has conveyed a message to Sachin Pilot that he is a member of the party and doors of the party are always open for him."
+
+        },
+        {
+            "title" : "Rajasthan crisis: Rahul Gandhi steps in to woo Sachin Pilot",
+            "des" : "Congress is making a last-ditch attempt to woo Sachin Pilot back. Rahul Gandhi has stepped in and has conveyed a message to Sachin Pilot that he is a member of the party and doors of the party are always open for him."
+
+        }, {
+            "title" : "Rajasthan crisis: Rahul Gandhi steps in to woo Sachin Pilot",
+            "des" : "Congress is making a last-ditch attempt to woo Sachin Pilot back. Rahul Gandhi has stepped in and has conveyed a message to Sachin Pilot that he is a member of the party and doors of the party are always open for him."
+
+        },
+        {
+            "title" : "Rajasthan crisis: Rahul Gandhi steps in to woo Sachin Pilot",
+            "des" : "Congress is making a last-ditch attempt to woo Sachin Pilot back. Rahul Gandhi has stepped in and has conveyed a message to Sachin Pilot that he is a member of the party and doors of the party are always open for him."
+
         }
-    }
+    ]
 }
