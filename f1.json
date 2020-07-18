@@ -1,13 +1,30 @@
 {
     "news": [
         {
-            "title" : "नज़रे करम मुझ पर इतना न कर,\nकी तेरी मोहब्बत के लिए बागी हो जाऊं,\nमुझे इतना न पिला इश्क़-ए-जाम की,\nमैं इश्क़ के जहर का आदि हो जाऊं।\n",
-            "des" : "अपनी कलम से दिल से दिल तक की बात करते हो\nसीधे सीधे कह क्यों नहीं देते हम से #प्यार करते हो।\n"
-        },
-          {
-            "title" : "नज़रे करम मुझ पर इतना न कर,\nकी तेरी मोहब्बत के लिए बागी हो जाऊं,\nमुझे इतना न पिला इश्क़-ए-जाम की,\nमैं इश्क़ के जहर का आदि हो जाऊं।\n",
-            "des" : "अपनी कलम से दिल से दिल तक की बात करते हो\nसीधे सीधे कह क्यों नहीं देते हम से #प्यार करते हो।\n"
+            "entertenment" : [
+                {
+                    "title" : "Rajasthan crisis: Rahul Gandhi steps in to woo Sachin Pilot",
+                    "des" : "Congress is making a last-ditch attempt to woo Sachin Pilot back. Rahul Gandhi has stepped in and has conveyed a message to Sachin Pilot that he is a member of the party and doors of the party are always open for him."
+        
+                }
+            ],
+
+            "corona" : [
+                {
+                    "title" : "Rajasthan crisis: Rahul Gandhi steps in to woo Sachin Pilot",
+                    "des" : "Congress is making a last-ditch attempt to woo Sachin Pilot back. Rahul Gandhi has stepped in and has conveyed a message to Sachin Pilot that he is a member of the party and doors of the party are always open for him."
+        
+                }
+            ],
+
+            "Gujarat" : [
+                {
+                    "title" : "Rajasthan crisis: Rahul Gandhi steps in to woo Sachin Pilot",
+                    "des" : "Congress is making a last-ditch attempt to woo Sachin Pilot back. Rahul Gandhi has stepped in and has conveyed a message to Sachin Pilot that he is a member of the party and doors of the party are always open for him."
+        
+                }
+            ]
+           
         }
-       
     ]
 }
