@@ -1,6 +1,50 @@
 
 {
     "news": [
+                {
+            "img" : "https://scaltermedia.com/wp-content/uploads/2020/07/msbhai.jpg",
+            "title" : "ધોનીએ ભારતીય ક્રિકેટ જગતમાં મહત્વનું નામ છે, હવે તેને ભારતીય ટીમ દ્વારા આ મળશે.",
+            "subTitle" : "રમત",
+            "text1" : "આ",
+            "textTitle2" : "આદ્સ્દ ",
+            "text2" : "એસડીવી ",
+            "textTitle3" : "ડીએફવીએસ ",
+            "text3" : "એસએફવી "
+        
+        },
+        {
+            "img" : "https://scaltermedia.com/wp-content/uploads/2020/07/vijaybhai.jpg",
+            "title" : "વિજય રૂપાણી ભાજપનાં ગુજરાતવિભાગનાં ચાર વાર અધ્યક્ષ, અને ક્યાં આ મહત્વના કામ.",
+            "subTitle" : "મારૂ ગુજરાત",
+            "text1" : "આ",
+            "textTitle2" : "આદ્સ્દ ",
+            "text2" : "એસડીવી ",
+            "textTitle3" : "ડીએફવીએસ ",
+            "text3" : "એસએફવી "
+        
+        },
+        {
+            "img" : "https://scaltermedia.com/wp-content/uploads/2020/07/vijaydevabhai.jpg",
+            "title" : "ફેશનમાં સાઉથ ફિલ્મ જગતના લોકો સૌથી આગળ છે, આ ફેશન જાણી નવાય લાગશે.",
+            "subTitle" : "લાઇફસ્ટાઇલ",
+            "text1" : "આ",
+            "textTitle2" : "આદ્સ્દ ",
+            "text2" : "એસડીવી ",
+            "textTitle3" : "ડીએફવીએસ ",
+            "text3" : "એસએફવી "
+        
+        },
+        {
+            "img" : "https://scaltermedia.com/wp-content/uploads/2020/07/vikibhai.jpg",
+            "title" : "વિકી કૌશલની આ ફિલ્મે બોલીવુડના બીજી ફિલ્મો નો રેકોર્ડ તોડ્યો છે.",
+            "subTitle" : "મનોરંજન",
+            "text1" : "આ",
+            "textTitle2" : "આદ્સ્દ ",
+            "text2" : "એસડીવી ",
+            "textTitle3" : "ડીએફવીએસ ",
+            "text3" : "એસએફવી "
+        
+        },
         {
 
             "img" : "https://scaltermedia.com/wp-content/uploads/2020/07/8.jpg",
