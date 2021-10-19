@@ -15,6 +15,23 @@
             "adx banner": "",
             "adx interciyal": "",
             "adx native": ""
+        },
+        {
+            "id": "2",
+            "application_name": "wallpaper",
+            "admob ads id": "ca-app-pub-3940256099942544\/3419835294",
+            "app package": "wallpaper.applikab.iphonewallpaper",
+            "banner": "ca-app-pub-3940256099942544/6300978111",
+            "inter": "ca-app-pub-3940256099942544/1033173712",
+            "native": "ca-app-pub-3940256099942544/2247696110",
+            "facebook ad id": "",
+            "fb banner": "",
+            "fb interciyal": "",
+            "fb native": "",
+            "adx ad id": "",
+            "adx banner": "",
+            "adx interciyal": "",
+            "adx native": ""
         }
     ]
 
