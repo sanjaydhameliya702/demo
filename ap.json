@@ -1,11 +1,17 @@
-[
-        {
-            "id": "1",
-            "application_name": "demo",
-            "admob ads id": "ca-app-pub-3940256099942544\/3419835294",
-            "app package": "com.applikab.demo",
-            "banner": "ca-app-pub-3940256099942544/6300978111",
-            "inter": "ca-app-pub-3940256099942544/1033173712",
-            "native": "ca-app-pub-3940256099942544/2247696110"
-        }
-]
+{
+   "id":"34",
+   "application_name":"IELTS Writing",
+   "admob ads id":"\/419163168\/com.applilab.bb.appopen",
+   "app package":"com.applilab.bb",
+   "admob banner":"\/419163168\/com.applilab.bb.banner",
+   "admob interciyal":"\/419163168\/com.applilab.bb.Interstitial",
+   "admob native":"\/419163168\/com.applilab.bb.native",
+   "facebook ad id":"",
+   "fb banner":"",
+   "fb interciyal":"",
+   "fb native":"",
+   "adx ad id":"",
+   "adx banner":"",
+   "adx interciyal":"",
+   "adx native":""
+}
