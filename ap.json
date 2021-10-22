@@ -1,37 +1,13 @@
-[
+{
+    "ad": [
         {
             "id": "1",
             "application_name": "iphone wallpaper",
             "admob ads id": "ca-app-pub-3940256099942544\/3419835294",
-            "app package": "wallpaper.applikab.iphonewallpaper",
+            "app package": "com.lockscreenone.myapplicationad_code",
             "banner": "ca-app-pub-3940256099942544/6300978111",
             "inter": "ca-app-pub-3940256099942544/1033173712",
-            "native": "ca-app-pub-3940256099942544/2247696110",
-            "facebook ad id": "",
-            "fb banner": "",
-            "fb interciyal": "",
-            "fb native": "",
-            "adx ad id": "",
-            "adx banner": "",
-            "adx interciyal": "",
-            "adx native": ""
-        },
-        {
-            "id": "2",
-            "application_name": "app_name",
-            "admob ads id": "ca-app-pub-3940256099942544\/3419835294",
-            "app package": "com.applikab.demo",
-            "admob banner": "ca-app-pub-3940256099942544/6300978111",
-            "admob interciyal": "ca-app-pub-3940256099942544/1033173712",
-            "admob native": "ca-app-pub-3940256099942544/2247696110",
-            "facebook ad id": "",
-            "fb banner": "",
-            "fb interciyal": "",
-            "fb native": "",
-            "adx ad id": "",
-            "adx banner": "",
-            "adx interciyal": "",
-            "adx native": ""
+            "native": "ca-app-pub-3940256099942544/2247696110"
         }
     ]
-
+}
