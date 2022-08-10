@@ -1,0 +1,21 @@
+{
+    "news": [
+        {
+            "id" : "11",
+            "task": "abc",
+            "ans" : "eee"
+        }, {
+            "id" : "12",
+            "task": "def",
+            "ans" : "wdw"
+        }, {
+            "id" : "13",
+            "task": "ght",
+            "ans" : "ddf"
+        }, {
+            "id" : "14",
+            "task": "iom",
+            "ans" : "ooi"
+        } 
+    ]
+}
